@@ -47,4 +47,8 @@
   .link-boxes .list-items ul li{
     list-style-type: none;
     margin-top: 6px;
+	color: #848080;
   }
+.media-icons{
+	display: flex;
+}
